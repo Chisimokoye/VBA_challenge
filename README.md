@@ -16,5 +16,7 @@ The total stock volume of the stock.
 
 
 Note: Make sure to use conditional formatting that will highlight positive change in green and negative change in red.
+
+
 Bonus
 Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". The solution should match the following image:
